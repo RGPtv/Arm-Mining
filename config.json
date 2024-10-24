@@ -9,7 +9,7 @@
 	
 	"user": "RDWCGEAHBnA1H2fv251mpE9qRPieg22Fxg.Vminer=3",
 	"algo": "verus",
-	"threads": 8,
+	"threads": 4,
 	"cpu-priority": 1,
 	"retry-pause": 5,
 	"api-allow": "192.168.0.0/16",
