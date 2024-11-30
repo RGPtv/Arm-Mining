@@ -44,7 +44,10 @@ nano ~/ccminer/config.json
 ```
 
 ## Usage:
-start mining with `~/ccminer/start.sh`
+start mining with 
+```bash 
+~/ccminer/start.sh
+```
 
 Standard SSH port for Userland is port `2022`.
 Optional: create an entry in your SSH config file for each phone:
